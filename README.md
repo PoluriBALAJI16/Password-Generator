@@ -1,1 +1,2 @@
 # Password-Generator
+The Password Generator is a simple web application built using React.js, HTML, and CSS. It allows users to generate secure passwords with a customizable length and a mix of characters including letters, numbers, and symbols. The interface is intuitive and responsive, providing instant feedback and easy access to newly generated passwords. The app ensures strong password creation, enhancing security for online accounts. 
